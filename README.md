@@ -28,7 +28,7 @@ Esse trabalho será públicado no sistema Pergamum da Faculdade e será disponib
 - Dados de qauntidade de nascimentos entre 2011 a 2021.
 
 # Como acessar a codificação:
-  Para acessar a codificação basta clicar no link a seguir:
+  Para acessar a codificação acessar clicar no link a seguir:
   
     https://www.kaggle.com/code/melyssafsilva/an-lise-explorat-ria-causas-de-morte-no-brasil
     
