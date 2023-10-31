@@ -6,8 +6,8 @@ Profa. Dr. Bianca Maria Pedrosa   - bpedrosa@ifsp.edu.br <br>
 Prof.  Ms. Everton Josué da Silva - everton.silva@ifsp.edu.br <br>
 Profa. Dr. Eliana Alves Moreira   - eliana.moreira@ifsp.edu.br               
 
-**Autora:** <br>
-Aluna: Melyssa Ferreira da Silva - CP3011721
+**Autora:** Aluna: Melyssa Ferreira da Silva - CP3011721
+
 # Projeto desenvolvido: Análise de Dados Sobre as Causas de Morte no Brasil
 
 ## **Descrição:**
@@ -22,9 +22,15 @@ Esse trabalho será públicado no sistema Pergamum da Faculdade e será disponib
 - Interpretar e representar visualmente  os resultados.
 - Elaborar o relatório final.
 
-
 ## **Dados Utilizados:**
 - Dados sobre mortalidade entre 2011 a 2021.
 - Dados sobre o número de habitantes em cada região do Brasil entre 2011 a 2021.
 - Dados de qauntidade de nascimentos entre 2011 a 2021.
+
+# Como acessar a codificação:
+  Para acessar a codificação basta clicar no link a seguir:
+  
+    https://www.kaggle.com/code/melyssafsilva/an-lise-explorat-ria-causas-de-morte-no-brasil
+    
+  Outra opção é baixar o notebook e executá-lo no ambiente de sua preferência!
 
